@@ -62,7 +62,7 @@ Pour garantir l'originalité du code par rapport au support de cours, les modifi
 ## 📺 Vidéo de Démonstration
 > *Vous pouvez insérer ici le lien vers votre vidéo ou un GIF de capture d'écran.*
 
-[ ![Démo de l'application](https://img.icons8.com/color/96/000000/video-playlist.png) ]
+https://github.com/ABDONOKRA/developementmobile-lab10/issues/1
 
 
 
